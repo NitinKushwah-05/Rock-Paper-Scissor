@@ -25,10 +25,10 @@ Welcome to my Rock, Paper, Scissors mini game! This project is a simple web-base
 
 ## Screenshots
 
-![Gameplay Screenshot]
+[Gameplay Screenshot]
 Gameplay Screenshots/Screenshot 2024-03-07 005051.png
 
-![Result Screenshot]
+[Result Screenshot]
 Gameplay Screenshots/Screenshot 2024-03-07 005108.png
 Gameplay Screenshots/Screenshot 2024-03-07 005130.png
 Gameplay Screenshots/Screenshot 2024-03-07 005152.png
